@@ -1,0 +1,4 @@
+NumberHits:0
+Timestamp: Mon May 31 11:53:46 UTC 2021
+VLNV: xilinx.com:user:BPDecodeIP_V2018:1.0
+SynthRuntime: 41
